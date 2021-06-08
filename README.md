@@ -1,2 +1,2 @@
 # Machine-Learning
-Self learning from Coursera
+from Coursera by Andrew Ng
