@@ -1,2 +1,2 @@
 # Machine-Learning
-from Coursera by Andrew Ng
+Coursera by Andrew Ng
